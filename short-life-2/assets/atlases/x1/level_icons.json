@@ -1,0 +1,171 @@
+{"frames": [
+
+{
+	"filename": "sh001.png",
+	"frame": {"x":1,"y":1,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh002.png",
+	"frame": {"x":514,"y":1,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh003.png",
+	"frame": {"x":1027,"y":1,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh004.png",
+	"frame": {"x":1,"y":318,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh005.png",
+	"frame": {"x":514,"y":318,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh006.png",
+	"frame": {"x":1027,"y":318,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh007.png",
+	"frame": {"x":1,"y":635,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh008.png",
+	"frame": {"x":514,"y":635,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh009.png",
+	"frame": {"x":1027,"y":635,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh010.png",
+	"frame": {"x":1,"y":952,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh011.png",
+	"frame": {"x":514,"y":952,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh012.png",
+	"frame": {"x":1027,"y":952,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh013.png",
+	"frame": {"x":1,"y":1269,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh014.png",
+	"frame": {"x":514,"y":1269,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh015.png",
+	"frame": {"x":1027,"y":1269,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh016.png",
+	"frame": {"x":1,"y":1586,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh017.png",
+	"frame": {"x":514,"y":1586,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh018.png",
+	"frame": {"x":1027,"y":1586,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh019.png",
+	"frame": {"x":1,"y":1903,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}
+,{
+	"filename": "sh020.png",
+	"frame": {"x":514,"y":1903,"w":512,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":316},
+	"sourceSize": {"w":512,"h":316}
+}],
+"meta": {
+	"app": "Adobe Flash CS6",
+	"version": "12.0.0.481",
+	"image": "level_icons.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "1"
+}
+}

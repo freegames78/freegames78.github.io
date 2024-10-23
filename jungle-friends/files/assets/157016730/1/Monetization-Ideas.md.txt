@@ -1,0 +1,37 @@
+## 8 Dec
+## Monkey Mart Monetization Subject
+- Showed 2x money reward at 20 second
+- Show 10+ reward at 50 second
+- Showed 2x money reward at 1 minute 20 second
+- Show 10+ reward at 1 minute 50 second
+
+## More monetization ideas
+- When all money collected, it's a natural break point
+- When an ads offered, but users didn't interact with it (since they lost an opportunity)
+
+
+
+## 5 Dec
++ Lucky spin
++ Vulpes will come and offer lucky spin (pirate + eye patch)
+
++ With this offer button, you can get 2X more revenue, one reward ads (1 minute) (every 4 minutes)
+
++ When user click to buy something, but doesn't have money, we can offer them a money pack for reward ads
++ Coin pack for 2 reward ads for 200 coins (2 ads)
+
+- When they are back to game, they can collect their daily reward, we can have a cool render for it, this would basically calculate coins while they are gone and give them coins if they watch ads
+
+## 29 November
+- From calculations it seems like our reward ads will be 0.4
+
+## Feature Ideas
+- Deer can bring us a box and that box would trigger a popup, we can give a surprise item to users with reward ads
+- We can drop a golden ticket with a bird, and that golden ticket can put us into a mini game with reward ads, we can have a cool render for it
+
+- Pig Race
+
+
+## Monetization Ideas
++ If they ever close the popup without watching an ad to wait for reward, show midroll.
++ If they don't have unicycle, off them unicycle

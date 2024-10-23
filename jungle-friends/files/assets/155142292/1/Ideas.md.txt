@@ -1,0 +1,29 @@
+## Ideas
+- Have animal collection
+https://youtu.be/YbXWX2o-tRs?si=2hAasucleWq6zMEE&t=686
+- Provide them home, train them and use them on quests
+
+- Quests
+
+## Engagement
+- "Inventory Expansion" - Watch an ad to temporarily expand the inventory for a set period, like 24 hours. Makes it feel like they're getting a special power-up.
+
+- "Quick Sort" - If the inventory is cluttered, watching an ad could instantly organize it, maybe even auto-selling or combining lesser items.
+
+- "Item Lock" - Players can lock a valuable item so it won't be accidentally sold or used. Normally it costs in-game currency, but an ad could do it for free.
+
+- "Priority Delivery" - If the inventory is full when a shipment arrives, watching an ad could allow the special items from the shipment to be added despite the limit.
+
+- Daily quests, like "Harvest Challenge" or "Builder's Quest," to bring players back every day.
+- Leaderboards to fuel competitive spirit.
+- Special timed events that offer unique rewards.
+- Challenges that require collaboration, perhaps unlocking social features as they progress.
+- A collection system, maybe with exotic animals, to keep players hunting for the next rare item.
+
+## Monetization
+- Reward ads for speeding up in-game processes, like crop growth or building construction.
+- Reward ads for getting extra storage space in your inventory.
+- Non-intrusive mid-roll ads, potentially after achieving certain milestones.
+- Integrating ads into the shipment box mechanic, either to speed up delivery or unlock additional goodies.
+- The VIP pass idea, giving an ad-free experience and other benefits for a period of time.
+- And a streak reward system where watching ads daily could multiply the bonuses.

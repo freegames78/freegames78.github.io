@@ -1,0 +1,13 @@
+{
+"companyName": "CyberGoldfinch",
+"productName": "Raccoon Adventure: City Simulator 3D",
+"dataUrl": "POKI_RaccoonSimulator_b8.data.unityweb",
+"wasmCodeUrl": "POKI_RaccoonSimulator_b8.wasm.code.unityweb",
+"wasmFrameworkUrl": "POKI_RaccoonSimulator_b8.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "POKI_RaccoonSimulator_b8.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
